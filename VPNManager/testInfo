@@ -1,0 +1,11 @@
+PPTP:
+identifier: vpnsos1.pptp
+server: vpnsos1.dedaa.com
+user: hyx
+psw: hyx20160223
+
+L2TP:
+identifier: vpnsos1.l2tp
+server: vpnsos1.dedaa.com
+user, psw: same
+secure key: vpnsos

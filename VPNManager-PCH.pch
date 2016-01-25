@@ -1,0 +1,21 @@
+//
+//  VPNManager-PCH.pch
+//  VPNManager
+//
+//  Created by Mioke on 1/24/16.
+//  Copyright © 2016 Mioke. All rights reserved.
+//
+
+#ifndef VPNManager_PCH_pch
+#define VPNManager_PCH_pch
+
+#import <Foundation/Foundation.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <NetworkExtension/NEVPNConnection.h>
+#import <NetworkExtension/NEVPNManager.h>
+#import <NetworkExtension/NEVPNProtocol.h>
+
+#endif /* VPNManager_PCH_pch */
